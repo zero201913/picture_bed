@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-set "outputFile=output.txt"
+set "outputFile=picture-bed-c5g.pages.dev.txt"
 
 if exist %outputFile% del %outputFile%
 
